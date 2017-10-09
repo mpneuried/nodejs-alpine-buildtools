@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:4.6
+FROM node:4.8-alpine
 MAINTAINER mpneuried
 
 # build tools for native dependencies
